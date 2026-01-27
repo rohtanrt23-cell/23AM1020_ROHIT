@@ -1,0 +1,22 @@
+tools: Git, GitHub Desktop, Anaconda, Jupyter Notebook, VSCode, Docker Desktop, MLFlow, FastAPI, RestAPI, Heroku, (huggingface).
+-create a folder with "23AM1020_ROHIT"
+-Download and install required tools
+-create a python environment for the lab "aiml_mlops_b3"
+-to create environment:
+conda create -n aiml_mlops_b3 python=3.11 //
+conda activate aiml_mlops_b3 | set current path start the IDE
+pip install jupyiter 
+cd C:\Users\Admin\Desktop\23AM1020_ROHIT\
+jupyter notebook
+
+notebook name - logistic regression
+(in notebook) !pip install sklearn
+              !pip install numpy
+
+
+
+
+
+accuracy 
+specifity 
+f1 score
