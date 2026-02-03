@@ -17,5 +17,5 @@ jobs:
         run: pip install -r experiment_2/requirements.txt
 
       - name: Run training script
-        run: python train.py 
+        run: python experiment_2/train.py 
         
