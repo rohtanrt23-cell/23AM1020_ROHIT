@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-dataset = pd.read_csv("Social_Network_Ads.csv")
+dataset = pd.read_csv("experiment_2/Social_Network_Ads.csv")
 dataset.head
 dataset.info
 
