@@ -1,0 +1,10 @@
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+pandas==2.3.3
+scikit-learn==1.8.0
+fastapi
+uvicorn
+joblib
+jinja2
+numpy
+python-multipart
