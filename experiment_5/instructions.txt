@@ -1,0 +1,16 @@
+hyper parameter changing
+retrain the model
+train the model
+save model
+save output
+roc curve /etc
+
+all parameters of the model
+make multiple experiment
+
+log hyperparameter
+output parameter
+output figure login /artwork login
+all must stored and compared (table)
+
+all this on MLflow
